@@ -1,0 +1,9 @@
+.div1{
+    background-color:orange;
+    box-shadow: 3px 3px 15 px yellow;
+    float:none;
+    padding: 20px;
+    text-align: center;
+    vertical-align: center;
+    margin: 20px auto;
+}
